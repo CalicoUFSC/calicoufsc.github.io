@@ -1,2 +1,2 @@
-# calicoufsc.github.io/biblioteca
+# calicoufsc.github.io
 Static site made with Jekyll
