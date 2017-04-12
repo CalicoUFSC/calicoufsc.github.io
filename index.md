@@ -8,6 +8,9 @@ layout: default
 
 [calicoufsc@gmail.com](mailto:calicoufsc@gmail.com)
 
+[Documentos Públicos](https://github.com/CalicoUFSC/documentos-publicos)
+
+[Atas de Reunião](https://github.com/CalicoUFSC/reunioes)
 
 Projetos
 --------
