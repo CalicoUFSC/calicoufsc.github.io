@@ -1,0 +1,10 @@
+# Site settings
+title: CALICO - Centro Acadêmico Livre da Computação
+tag_text: CALICO - Centro Acadêmico Livre da Computação
+description: CALICO - Centro Acadêmico Livre da Computação
+
+# Build settings
+markdown: kramdown
+exclude: ["README.md"]
+sass:
+  style: compressed
